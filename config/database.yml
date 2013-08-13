@@ -2,11 +2,11 @@
 development:
   adapter: postgresql
   host: localhost
-  database: tmp_development
+  database: monologue_development
   username: postgres
 
 test:
   adapter: postgresql
   host: localhost
-  database: tmp_test
+  database: monologue_test
   username: postgres
